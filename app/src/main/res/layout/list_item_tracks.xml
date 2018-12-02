@@ -1,0 +1,20 @@
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <com.android.volley.toolbox.NetworkImageView
+        android:layout_width="300px"
+        android:layout_height="300px"
+        android:id="@+id/iv_list_item_cover"
+        android:background="@color/white" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:id="@+id/tv_list_item_track_name" />
+
+</LinearLayout>

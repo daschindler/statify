@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Statify</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="error_msg_no_connection">Spotify connection error...</string>
+    <string name="title_artist">Artists</string>
+    <string name="title_playlists">Playlists</string>
+    <string name="title_tracks">Tracks</string>
+</resources>
